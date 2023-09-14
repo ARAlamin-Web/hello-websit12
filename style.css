@@ -1,0 +1,19 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size: 50px;
+}
+.rong{
+    color: orange;
+}
+.name{
+    width: 40%;
+    float: left;
+    margin-left: 8px;
+    padding-left: 2px;
+}
+.name img{
+    width: 100%;
+}
