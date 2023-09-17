@@ -1,0 +1,16 @@
+body{
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+.rong{
+    color: orange;
+}
+.name{
+    width: 50%;
+    background-color: white;
+    float: right;
+}
+.name img{
+    width: 50%;
+}
